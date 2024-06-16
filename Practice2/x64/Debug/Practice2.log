@@ -1,0 +1,20 @@
+﻿  Mail.cpp
+C:\Users\Sanan\OneDrive\Documents\Projects(Uni)\Post-Office-Management-System-Project-main\Practice2\Mail.cpp(130,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Parcel.cpp
+C:\Users\Sanan\OneDrive\Documents\Projects(Uni)\Post-Office-Management-System-Project-main\Practice2\Parcel.cpp(300,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Payment.cpp
+  PostalWorkers.cpp
+C:\Users\Sanan\OneDrive\Documents\Projects(Uni)\Post-Office-Management-System-Project-main\Practice2\PostalWorkers.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Sanan\OneDrive\Documents\Projects(Uni)\Post-Office-Management-System-Project-main\Practice2\PostalWorkers.cpp(105,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Sanan\OneDrive\Documents\Projects(Uni)\Post-Office-Management-System-Project-main\Practice2\PostalWorkers.cpp(123,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Sanan\OneDrive\Documents\Projects(Uni)\Post-Office-Management-System-Project-main\Practice2\PostalWorkers.cpp(328,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Sanan\OneDrive\Documents\Projects(Uni)\Post-Office-Management-System-Project-main\Practice2\PostalWorkers.cpp(345,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Sanan\OneDrive\Documents\Projects(Uni)\Post-Office-Management-System-Project-main\Practice2\PostalWorkers.cpp(362,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Sanan\OneDrive\Documents\Projects(Uni)\Post-Office-Management-System-Project-main\Practice2\PostalWorkers.cpp(388,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Sanan\OneDrive\Documents\Projects(Uni)\Post-Office-Management-System-Project-main\Practice2\PostalWorkers.cpp(406,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  PostOffice.cpp
+C:\Users\Sanan\OneDrive\Documents\Projects(Uni)\Post-Office-Management-System-Project-main\Practice2\PostOffice.cpp(53,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Sanan\OneDrive\Documents\Projects(Uni)\Post-Office-Management-System-Project-main\Practice2\PostOffice.cpp(87,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Practice2.vcxproj -> C:\Users\Sanan\OneDrive\Documents\Projects(Uni)\Post-Office-Management-System-Project-main\x64\Debug\Practice2.exe
